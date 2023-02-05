@@ -1,0 +1,4 @@
+cd ..
+
+pip install pyinstaller
+pyinstaller main.py -i openai.ico --onefile
